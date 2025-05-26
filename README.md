@@ -1,6 +1,7 @@
 ![image alt](https://github.com/RaisaRasmeen/book-store/blob/83f0cfc2eb0c08ef39fa80e13a8ca2f36e7299bc/bookstore-copy/IMG-20250526-WA0003.jpg)
 ![image alt](https://github.com/RaisaRasmeen/book-store/blob/92b648690fb95a9641e0f7b944025debf5ebfb22/bookstore-copy/IMG-20250526-WA0004.jpg)
 ![image alt](https://github.com/RaisaRasmeen/book-store/blob/bd1756b1ff857fba123405bc91ff126b7eaffe5e/bookstore-copy/IMG-20250526-WA0005.jpg)
+![image alt](https://github.com/RaisaRasmeen/book-store/blob/21943be0257317fc4240e8ebe28f6b86a09f6421/bookstore-copy/IMG-20250526-WA0006.jpg)
 Book Store Management System
 
 A web-based application built with Laravel and MySQL to manage books efficiently with CRUD functionalities, pagination, and user-friendly UI.
